@@ -1,0 +1,86 @@
+.box {
+    margin: 18%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+.display-4 {
+    text-align: center;
+    font: 4em sans-serif;
+    font-weight: 800 ;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+body {
+    
+    background-color: #dbdbdb;
+    ;
+}
+
+
+.btn {
+    margin-left: 50%;
+    margin-left: 50%;
+    padding: 0 0.01%;
+  
+    font-size: 30px;
+    
+
+}
+
+.card-img-top
+{
+    width: 35%;
+    margin-left: 30%;
+    margin-top: 6%;
+}
+
+.card-group {
+    margin-top: 15%;
+}
+.table {
+    background-color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+}
+
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+
+.lisa {
+    width: 120px;
+    margin: 3%;
+}
+.container {
+   
+    margin-top: 3%;
+    padding-left: 10% ;
+    padding-top: 3%;
+    padding-right: 10% ;
+}
+
+.card-group {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 8%;
+    border: black 5px solid;
+
+}
+
+
+.container {
+   
+    margin-top: 3%;
+    padding-left: 10% ;
+    padding-top: 3%;
+    padding-right: 10% ;
+}
